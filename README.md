@@ -1,5 +1,5 @@
 # Basic info
--Anthony Wright
--CIS17A
+*Anthony Wright
+*CIS17A
 
 
